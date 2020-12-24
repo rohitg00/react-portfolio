@@ -1,71 +1,77 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "name": "Rohit Ghumare",
+    "occupation": "Software Engineer At Reverie Language Technologies",
+    "description": "If you are looking for someone to help you with solutions in AIOps/MLOps, DevOps, Cloud, Machine Learning and Chatbot development domains, Count me in! ",
+    "image": "rohit.jpg",
+    "bio": "My name is Rohit, I'm a DevOps Cloud Engineer. Currently I'm working at Reverie Language Technologies.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "ghumare64@gmail.com",
+    "phone": "+91-8286933169",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "08, Gaondevi prasad soc, Devichapada",
+      "city": "Dombivali",
+      "state": "MA",
+      "zip": "421202"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://bit.ly/resume-rg",
+    "resumedownload": "http://bit.ly/resume-rg",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/rohit.ghumare",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/rohit-ghumare/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/rohit_ghumare_rg/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/rohitg00",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I have some skills, You might can have a look for once",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
+        "school": "Datta Meghe College of Engineering",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "graduated": "2020",
+        "description": "Graduated with 8.11 CGPA"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "Reverie Language Technologies",
+        "title": "Software Engineer - NLP",
+        "years": "Dec 2020 - Present",
+        "description": "Working with Automated Speech Recognition team to develop efficient solutions for clients"
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
-      }
+        "company": "H-Bots Robotics Pvt. Ltd.",
+        "title": "DevOps Cloud Engineer",
+        "years": "June 2020 - Dec 2020",
+        "description": "My Job as a DevOps Cloud Engineer is to deal with the entire Cloud Infrastructure system of my company. Whenever a new project is assigned, Worked on setting up the Live system on-premises and cloud-hosted both as per the company use-case. Worked on various AI Robots by building models and helping with integration for Robots with Amazon AWS and ROS software. As a Chatbot Developer, My job is to deal with chatbot development and deployment from scratch to advance using Dialogflow, voice-apps, rasa, python, and Django framework. Worked extensively to build various chatbots for clients from various industries."
+      },
+      {
+        "company": "Trainings&Internships",
+        "title": "Founder",
+        "years": "Nov 2019 - Present",
+        "description": "Transforming the lives of people by helping them with Internships, Job and Trainings oppportunities at free of cost. Also teaching them how to become successful developers no matter if they are a beginner or not!"
+      }  
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Docker",
         "level": "100%"
       },
       {
@@ -73,15 +79,31 @@
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
-        "name": "JavaScript",
+        "name": "Growth",
         "level": "100%"
       },
       {
-        "name": "MongoDB",
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "100%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "80%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "60%"
+      },
+      {
+        "name": "Monitoring Tools",
+        "level": "80%"
+      },
+      {
+        "name": "Ansible",
         "level": "80%"
       }
     ]
@@ -89,28 +111,45 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "MLOps for Machine Learning Automation",
+        "category": "MLOps for Machine Learning Automation",
+        "image": "mlops.jpg",
+        "url": "https://ghumare64.medium.com/getting-ai-ml-and-devops-working-better-together-for-automation-e6de4b588231"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      }
+        "title": "WebApp deployment using Docker-Compose",
+        "category": "WebApp deployment using Docker-Compose",
+        "image": "docker.png",
+        "url": "https://www.linkedin.com/pulse/iiecrise-docker-project-rohit-ghumare/"
+      },
+      {
+        "title": "MLOps for Machine Learning Automation",
+        "category": "MLOps for Machine Learning Automation",
+        "image": "kube.gif",
+        "url": "https://ghumare64.medium.com/automation-using-kubernetes-from-developer-to-production-system-for-ci-cd-b766ea783e"
+      },
+      {
+        "title": "Amazon EKS service to deploy WebApp",
+        "category": "Amazon EKS service to deploy WebApp",
+        "image": "eks.gif",
+        "url": "https://ghumare64.medium.com/deploying-infrastructure-frontend-backend-on-aws-using-amazon-eks-5f1f426d618e"
+      },
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Rohit is excellent with his skills in AWS cloud and Rasa Chatbot development, He has helped our clients in various projects in Machine Learning and Cloud domains.",
+        "user": "Harshita Puvvala"
       },
       {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Rohit Ghumare is very helpful and down to earth guy. I have talked him on LinkedIn and he is always ready to help . and helped me a lot ,you can get knowledge about many technologies and he is very good in conversations too.",
+        "user": "Harshvardhan Mamgai"
+      },
+      {
+        "text": "Rohit is very hardworking guy. He has great leadership and communication skills and has done lots of non-profit groups for students without asking a single penny. In this covid-19 crisis, Rohit worked hard on his skills and got two jobs in hand. He motivated many students like me and showed us how to not give up and keep hustling.",
+        "user": "Aishwarya Nevrekar"
       }
     ]
   }
